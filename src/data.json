@@ -1,0 +1,38 @@
+[
+        {
+            "id": 1,
+            "title": "Chevrolet Corvette Stingray",
+            "description": "Though there is an assortment of brand-new and fully redesigned passenger cars hitting the road for 2020 model year, their numbers are dwindling as buyers are instead choosing sport-utility vehicles as their rides of choice.",
+            "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d35eacaf1176b0008974b54%2F2020-Chevrolet-Corvette-Stingray%2F960x0.jpg%3FcropX1%3D790%26cropX2%3D5350%26cropY1%3D784%26cropY2%3D3349"
+        },
+        {
+            "id": 2,
+            "title": "Aston Martin Rapide E",
+            "description": "The famed British exotic sports-car maker Aston Martin is building a full-electric version of the gorgeous and capable Rapide coupe. It comes wrapped in aluminum and carbon fiber body panels, and packs dual rear-mounted motors that generate over 600 horsepower with 700 pound-feet of torque.",
+            "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d37033a95e0230008f64eb2%2F2020-Aston-Martin-Rapide-E%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D157%26cropY2%3D1844"
+        },
+        {
+            "id": 3,
+            "title": "Cadillac CT4",
+            "description": "Cadillac introduces a new compact luxury sedan for 2020, the CT4. Adorned with uncluttered styling, it fills the slot in the lineup that was vacated when the ATS was discontinued. Few details on the base model are available as of this writing, but we do know it will be rear drive with all-wheel-drive available, and come powered by a turbocharged four-cylinder engine with a 10-speed automatic transmission.",
+            "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d37038495e0230008f64ec1%2F2020-Cadillac-CT4-V%2F960x0.jpg%3FcropX1%3D569%26cropX2%3D5130%26cropY1%3D347%26cropY2%3D2912"
+        },
+        {
+            "id": 4,
+            "title": "Cadillac CT5 ",
+            "description": "The Cadillac CT5 replaces the midsize CTS for 2020, and is dynamically styled with a broad grille, narrow LED headlamps and a sleek fastback roofline. The CT5 comes powered by either a turbocharged 2.0-liter 237-horsepower four-cylinder engine or a livelier 335-horsepower twin-turbo 3.0-liter V6, each with specific exhaust-note tuning.",
+            "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d3703b3090f4300070d570d%2F2020-Cadillac-CT5%2F960x0.jpg%3FcropX1%3D288%26cropX2%3D5130%26cropY1%3D538%26cropY2%3D3261"
+        },
+        {
+            "id": 5,
+            "title": "Chevrolet6 Corvette Stingray ",
+            "description": "A mid-engine Chevy Corvette has been rumored for decades and it’s a reality for 2020. Carrying the famed Stingray moniker, it’s the most aggressively styled ‘Vette yet, with a wild exotic-car appearance. It comes with removable roof panels that can be stored in the forward-situated trunk. ",
+            "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d3703e2f1176b00089761a6%2F2020-Chevrolet-Corvette-Stingray%2F960x0.jpg%3FcropX1%3D836%26cropX2%3D5396%26cropY1%3D799%26cropY2%3D3364"
+        },
+        {
+            "id": 6,
+            "title": "Electra Meccanica Solo",
+            "description": "A new name in the auto business, a Canadian company called Electra Meccanica says it will begin selling a new three-wheel single-passenger EV called Solo by year’s end.",
+            "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d37041095e0230008f64ed8%2F2020-Electra-Meccanica-Solo%2F960x0.jpg%3FcropX1%3D24%26cropX2%3D2031%26cropY1%3D204%26cropY2%3D1333"
+        }
+    ]
